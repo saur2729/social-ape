@@ -89,7 +89,3 @@ app.post('/signup', (req, res) => {
 
 // https://baseurl.com/api/     we are trying to get this prefix here - api
 exports.api = functions.region('asia-east2').https.onRequest(app); 
-
-
-
-
