@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "genuine-charger-242416",
+  "private_key_id": "e6c66b2bfdb66efedc6f56fdf2327ca49d4c39cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK2eEVy51aOXBh\nXFpBS9vyFKTmR2RDxl/7WAUMeplXf5K5kBYF8gmvH3+gCgmneCx50wpiyWqnR2Wg\n54kg3fEYJ/lsyljtezxp22w1cRiBV2iJGIRWUR3joq2x1uozkfZouipj12AD2yDk\nEN/ex+c8lWbdErOIqQq8a+Jslf9qH8rou1cQAcphIpaybhJMBN8fQBsKTaj7fnF6\n6zMPvcZWAZnLMbXDQ/x2Qv9uNZrEBrcepSJaU+QriPzWWNr3VbI4ziAtG1VwJJqZ\nuy47FHgqB2ImhKmGfWY85aDfdkGJu/KNJfbzLL4ZDOatjaupjxS6Fh1eyhcruFuG\nA+6eOH3rAgMBAAECggEAKVu26qyzDlw7r34W4M1IsNjIrjLMHI1rsGFH1j2A2jgm\ngDMCan/ovY3chZLGWSDFYKlIqs+KMUT7UY0jhlH6AATWc/nlm7XOoX6dV2ARsP1T\nUPBwuvCa+XiHlYTOB2mxJbUfQ2/8IY0h7Z4LJu73FIEZkeVoOWrNx5Dvf1gt1UL8\nv9THF1cDCYWAk2qJ1AOVBoAwEjkuJw9oBQ+ZE4lBd9XOozOJCljTZ5Kf0wsPBpAO\naeTOMuOrtn09NEKTyzXbgA/9jjp/pJkf4o1nN5DpXRVs7OkV8U35ilfp8xSYypyh\nboqG+xG2nWxdeeGbUiXTj0qAfXA3jN40PJ5eU9Nl0QKBgQD8g3TQKg/xk49Tc6y4\nDBgDG9V7gLjYpCZJhYKkScZLchcSh3+vKRT0SUNVI06ejPyR2GYFDmRaOogzRvEc\njLLn1RqbmxLJ42AD6UBD112NFlYbaadrhEQWYu5d+/YZZ+dVgGy2jA6EWCWJKuZ1\n/LjW3fN08hgqASnnCnzLW+DsnQKBgQDNpuJipcK/T8Sm9+J5MyNxLqdiTEmW0mQD\njEWvoMrSHl1H1FdSx6tWy79+p7qcskljqAxNspdR9NEMqfaq4O3XV6QVSrknSjvc\ns6yUYt57iNB3eKidpFjoY0SyET3LCRaiRtos8ffCwWvjgJoBYFU7WQy0w5X5VJh5\nGmtgrbaaJwKBgF+cqutzMcxIEjoID7s0oRb0QBZefB9TsEegbQImCRZiIchbVAaP\n6KZC42LmVouEWNIkfSSm+WqMxSudTgiAYfGUaFnJEwksthtlA3dsobidX4dLrx/v\n2hQb66PclqeyBw8B7KgGSizkb3oLq227foWlTtzWGj41aJdaCjy6EmWlAoGAZs/T\nxfWQ0wwSCFdNBcKnKWJllCMHdztffNaX0CHWxA0iHVLvBReFdTMPXUaFaOlI/2V4\nIS/zrqlyCZ6/Dta8kTfjdDGTNy1JmCDLWrPC/od7kP7lbUpImIVoRo2QEv1ML3y0\nflvJvbftNCOK2r1KXw056PUO+UNtpr2qiP7Pl2kCgYEAxB/shoLCBnSUkyOvWjDP\nUurZdob6OI+edLw3G/7uW2EdO3sj78qSf7TsN8/OPOUP6VK4XXZ6koyqcj2Zlwzr\nhNKXMLEWjA41qSCINiO4qfvj5DLn8IyY1sS0HtcMkRWCu0jD0MvuhChQhmc8/fm7\nFCqTEUdWQsJ4WgZYjQcQPc0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "saurabh@genuine-charger-242416.iam.gserviceaccount.com",
+  "client_id": "107418123386851350433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saurabh%40genuine-charger-242416.iam.gserviceaccount.com"
+}
