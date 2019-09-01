@@ -92,7 +92,7 @@ app.post('/signup', (req, res) => {
           return db.doc(`/users/${newUser.handle}`).set(userCredentials);
       })
       .then(() => {
-          return screen.status(201).json({token});
+          return screen.status(201).json({ token });
       })
       .catch(err => {
           console.error(err);
